@@ -1,6 +1,6 @@
 # Riyadh Restaurants Spatial Analysis:
 
-This project is requarment for Tuweiq Spatial Data Science Bootcamp\n
+This project is requarment for Tuweiq Spatial Data Science Bootcamp
 the repo contain the following:
 
 - streamlit dashboard web app [https://project1-2ts7k9gzappchdsngidgl2v.streamlit.app/]
